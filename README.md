@@ -1,3 +1,5 @@
 # Palestras e artigos sobre teste
 
 O Objetivo deste repositório é para compartilhar todas as palestras, artigos e estudo aprofundado como complemento da minha formação na área.
+
+Autor: Elias Nogueira | [BDD não é automação de testes](https://youtu.be/O_FiotmX0R4?si=8ne-6m_sdm83EeB9)
