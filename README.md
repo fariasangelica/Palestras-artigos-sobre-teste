@@ -5,3 +5,7 @@ O Objetivo deste repositório é para compartilhar todas as palestras, artigos e
 Autor: Elias Nogueira | [BDD não é automação de testes](https://youtu.be/O_FiotmX0R4?si=8ne-6m_sdm83EeB9)
 
 Autor: Samanta Cicilia | [Como criar a tao falada Cultura da Qualidade](https://youtu.be/jFBkL2Sq7XQ?si=Y9a6Qfj6S36RALWB)
+
+Autor: Dave Farley | [The Role of QA in Agile Software](https://www.youtube.com/watch?v=jYuklM3prbI)
+
+Autor: Aino Corry  | [Scrum DOES NOT Equal AGILE](https://www.youtube.com/watch?v=bdSzvnccLQk)
